@@ -1,13 +1,15 @@
 #Correctnes:
 
--Your code is not actually correct, it doest not run, it makes errors when you compile it, there are errors such syntec error on line 26
+-Your code is not actually correct based of the instractions, it doest not run, it makes errors when you compile it, there are errors such syntec error on line 26
  that return undefined name of a method.
--On line 28, You are required to write a recursiive function that have a method calling its self.-On line 28, You parrameter shoud variable 'maxNumber' type of interger insdeat of 'T' because a methon will pass a number.
+-On line 28, You are required to write a recursiive function that have a method calling its self.
+-On line 28, You parameter shoud variable 'maxNumber' type of interger instead of 'T' because a method will pass a number.
+-On line 28, Your reserve string method name should use 'camelCase' format.
 
 
 #Efficiency:
 
--You code does not run, have some errors. You both methods have mistatkes and you didn't call the fibonacci method on main method.
+-You code does not run, have some errors. Your both methods have mistatkes and you didn't call the fibonacci method on main method.
 -On line 3, the main method shoud call 2 recursive methods, reverse string method and fibonacci method.
 -On line 11, the printing statement is not accurate as the fibonacci is only printed as a string not by calling the actual fibonacci method.
 -On line 30, Variable 'maxNumber' is already defined in the scope on line 28 in 'function' parrameter as a type 'T'. 
@@ -19,6 +21,14 @@
 -Your methods are public methods of which can be called/accessed from any where.
 
 #Documentation:
+
+-You code have the following:
+   Modifiers:    public
+   Types:        T, String, void
+   Methods:      main, reverse_string, fuction
+   Constructors: Recursion
+   
+-Your code have clear comments there is not much confusion.
 
 
 #Postive aspects and improvements
